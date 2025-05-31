@@ -366,3 +366,90 @@ Bearish Engulfing Example:
 - Meaning: Sellers overwhelmed buyers → potential trend reversal down
 ```
 
+```markdown
+# Quantitative (Quant) Trading Overview
+
+Quantitative (Quant) trading is a data-driven, algorithm-based approach to trading where decisions are made using mathematical models, statistics, and programming. Unlike discretionary traders who rely on intuition or chart patterns, quant traders use historical data and automation to build, test, and execute trading strategies.
+
+---
+
+## 🤖 What is Quant Trading?
+
+Quant trading uses algorithms and quantitative analysis to identify trading opportunities. These models can range from simple moving averages to complex machine learning models.
+
+---
+
+## 🧠 Core Components of Quant Trading
+
+| Component           | Description                                                                                           |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Data**            | Historical price, volume, fundamentals, alternative data (news, social media, satellite images, etc.) |
+| **Strategy**        | A mathematical/statistical model that decides when to buy/sell                                        |
+| **Backtesting**     | Testing a strategy on historical data to validate performance                                         |
+| **Execution**       | Automated order placement using APIs                                                                  |
+| **Risk Management** | Position sizing, stop-loss, drawdown control                                                          |
+| **Optimization**    | Tuning parameters to improve performance without overfitting                                          |
+
+---
+
+## 🧰 Common Quant Strategies
+
+1. **Statistical Arbitrage**  
+   Trades mean-reverting pairs or baskets (e.g., pairs trading)  
+   Tools: z-score, cointegration, correlation
+
+2. **Momentum**  
+   Buy winners, sell losers  
+   Based on recent returns, volume, volatility
+
+3. **Mean Reversion**  
+   Price returns to average (e.g., Bollinger Bands, z-score)  
+   Good for range-bound assets
+
+4. **Machine Learning-Based**  
+   Use ML models (XGBoost, Random Forest, LSTM) for price prediction or classification  
+   Requires feature engineering and large datasets
+
+5. **Factor Investing (Multi-Factor Models)**  
+   Select stocks based on value, momentum, size, quality, volatility factors
+
+6. **High-Frequency Trading (HFT)**  
+   Ultra-fast strategies using order book, latency arbitrage  
+   Needs low latency infrastructure and co-location
+
+---
+
+## 💼 Tools Used in Quant Trading
+
+| Tool                  | Use Case                                                                    |
+| --------------------- | --------------------------------------------------------------------------- |
+| **Python**            | Most popular language (pandas, numpy, TA-Lib, sklearn, backtrader, Zipline) |
+| **R**                 | Great for statistical modeling                                              |
+| **SQL**               | Querying large datasets                                                     |
+| **APIs**              | Market data (e.g., Fyers, Alpaca), broker APIs                              |
+| **Jupyter Notebooks** | Prototyping & testing strategies                                            |
+
+---
+
+## 📈 How to Get Started?
+
+- Learn Python (if not already)
+- Understand basic statistics and probability
+- Learn technical analysis and indicators
+- Practice using libraries like `pandas`, `numpy`, `backtrader`, `ta`, `scikit-learn`
+- Start with simple strategies (e.g., moving average crossover) and backtest
+- Paper trade with APIs (e.g., Fyers, Zerodha Kite Connect)
+- Gradually move to live trading with strict risk controls
+
+---
+
+## 🔐 Risks in Quant Trading
+
+- **Overfitting**: Strategy works on backtest but fails in real market
+- **Slippage & Latency**
+- **Data Quality Issues**
+- **Black Swan Events**
+
+---
+```
+
