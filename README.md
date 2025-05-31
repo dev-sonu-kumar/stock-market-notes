@@ -300,4 +300,69 @@ Use technical indicators for entry/exit.
 
 ---
 
+# Candlestick Patterns Cheat Sheet
+
+Candlestick charts visually display price action and are widely used for predicting future market movements. Each pattern gives clues about potential reversals or continuations.
+
+---
+
+## 🔥 Bullish Reversal Patterns
+
+| Pattern Name             | Description & Formation                                                                                           | Interpretation & Use                                                                                      |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Hammer**               | Small body near top, long lower wick, little/no upper wick. Forms after a downtrend.                              | Shows buyers pushed price up after strong selling pressure → possible reversal to upside.                 |
+| **Inverted Hammer**      | Small body near bottom, long upper wick, little/no lower wick, after downtrend.                                   | Buyers tried to push price higher but sellers regained control. Could signal trend reversal if confirmed. |
+| **Bullish Engulfing**    | Small bearish candle followed by a larger bullish candle that completely engulfs the previous body.               | Strong buying pressure reversal after a downtrend.                                                        |
+| **Piercing Line**        | Bearish candle followed by bullish candle opening lower but closing above midpoint of previous candle.            | Indicates shift from sellers to buyers; bullish reversal.                                                 |
+| **Morning Star**         | 3-candle pattern: bearish candle, small-bodied candle (star), bullish candle closing well into 1st candle’s body. | Strong bullish reversal after downtrend.                                                                  |
+| **Three White Soldiers** | 3 consecutive bullish candles with progressively higher closes and small/no wicks.                                | Powerful bullish reversal or continuation.                                                                |
+
+---
+
+## 💀 Bearish Reversal Patterns
+
+| Pattern Name          | Description & Formation                                                                                           | Interpretation & Use                                                                    |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Shooting Star**     | Small body near bottom, long upper wick, little/no lower wick, after an uptrend.                                  | Sellers pushed price down after strong buying pressure → possible reversal to downside. |
+| **Hanging Man**       | Small body near top, long lower wick, little/no upper wick, after an uptrend.                                     | Warning of potential bearish reversal if confirmed.                                     |
+| **Bearish Engulfing** | Small bullish candle followed by a larger bearish candle that completely engulfs the previous body.               | Strong selling pressure reversal after an uptrend.                                      |
+| **Dark Cloud Cover**  | Bullish candle followed by bearish candle opening higher but closing below midpoint of previous candle.           | Indicates shift from buyers to sellers; bearish reversal.                               |
+| **Evening Star**      | 3-candle pattern: bullish candle, small-bodied candle (star), bearish candle closing well into 1st candle’s body. | Strong bearish reversal after uptrend.                                                  |
+| **Three Black Crows** | 3 consecutive bearish candles with progressively lower closes and small/no wicks.                                 | Powerful bearish reversal or continuation.                                              |
+
+---
+
+## ⏭️ Continuation Patterns
+
+| Pattern Name              | Description                                                                                                        | Interpretation                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| **Doji**                  | Candle with almost equal open and close prices, very small body.                                                   | Indicates indecision. After trend, signals potential reversal or pause. Confirmation needed. |
+| **Spinning Top**          | Small body with long upper and lower wicks.                                                                        | Shows indecision and balance between buyers and sellers.                                     |
+| **Rising Three Methods**  | Bullish continuation: long bullish candle, followed by 3 small bearish/neutral candles, then a big bullish candle. | Indicates pause before continuation of uptrend.                                              |
+| **Falling Three Methods** | Bearish continuation: long bearish candle, followed by 3 small bullish/neutral candles, then a big bearish candle. | Indicates pause before continuation of downtrend.                                            |
+
+---
+
+## 🧠 Explanation: Why These Candles Form
+
+- **Psychology:** Each pattern reflects battle between buyers and sellers. The shape and position of body and wicks show who dominated the session and possible shift in control.
+- **Volume:** Patterns confirmed with volume increase carry stronger signals.
+- **Trend Context:** Patterns are meaningful only in context of preceding trend and confirmation from next candles.
+- **Confirmation:** Always wait for confirmation candle or other indicator before trading on pattern alone.
+
+---
+
+## Example Candlestick Descriptions
+
+```plaintext
+Hammer Example:
+- Preceding trend: downtrend
+- Pattern: small real body near top, long lower wick
+- Meaning: Sellers drove price down but buyers regained control → possible bottom reversal
+
+Bearish Engulfing Example:
+- Preceding trend: uptrend
+- Pattern: small bullish candle followed by large bearish candle engulfing it
+- Meaning: Sellers overwhelmed buyers → potential trend reversal down
+```
 
