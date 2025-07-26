@@ -453,4 +453,77 @@ Quant trading uses algorithms and quantitative analysis to identify trading oppo
 ---
 ```
 
+# 🧠 Quant Trader Interview Guide
+
+This document outlines the key areas and sample questions typically asked in **Quant Trader interviews**, especially for roles in prop firms, hedge funds, or quant desks.
+
+---
+
+## 1. 📊 Quantitative & Mathematical Knowledge
+
+Understand core concepts in statistics, probability, and linear algebra.
+
+**Sample Questions:**
+- What is the difference between correlation and cointegration?
+- Explain the Central Limit Theorem and its applications in trading.
+- Given a fair coin, what is the probability of getting two heads in a row in 10 flips?
+- If a stock has volatility of 20%, what’s the probability it will move more than 2 standard deviations?
+- How would you simulate a Brownian motion?
+
+---
+
+## 2. 📈 Financial Markets & Strategy Knowledge
+
+Test your understanding of market behavior and trading strategy development.
+
+**Sample Questions:**
+- What is the logic behind a market-neutral strategy?
+- Explain how a pair trading strategy works.
+- How does volatility affect options pricing?
+- How would you backtest a momentum strategy?
+- What are the risks in a statistical arbitrage strategy?
+
+---
+
+## 3. 💻 Programming & Data Handling (Python, R, C++)
+
+Proficiency in programming is crucial for backtesting, data analysis, and live trading.
+
+**Sample Questions:**
+- Write a function to calculate Sharpe Ratio.
+- How would you detect outliers in a time series?
+- Given minute-level price data, write a code to check for arbitrage opportunities.
+- How would you optimize a backtest engine for speed?
+- Use NumPy/Pandas to compute moving averages and crossover signals.
+
+---
+
+## 4. ⚖️ Behavioral & Thought Process
+
+Evaluate mindset, risk thinking, and pressure handling capabilities.
+
+**Sample Questions:**
+- How do you handle drawdowns?
+- Tell me about a time your strategy failed and what you did.
+- Do you prefer automated or discretionary trading? Why?
+- How do you stay up-to-date with markets?
+- What makes a good trading idea?
+
+---
+
+## 🔍 Optional Topics (Role-Dependent)
+
+- **Options Greeks** — For derivatives trading roles.
+- **Machine Learning** — For quant research and strategy optimization.
+- **SQL/Databases** — For data-heavy roles.
+- **APIs & Execution** — For algorithmic trading infrastructure roles.
+
+---
+
+## ✅ Next Steps
+
+Would you like:
+- A mock interview session?
+- A coding challenge?
+- Real-world strategy case studies?
 
